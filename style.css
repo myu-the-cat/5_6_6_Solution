@@ -7,13 +7,10 @@ body{
   font-style: normal;
 }
 
-
-
 .userName{
   display: flex;
   flex-direction: column;
   margin-bottom: 20px;
-
 }
 
 .emailAddress{
