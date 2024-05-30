@@ -1,0 +1,40 @@
+body{
+
+  color: blue;
+  margin: 20px;
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.userName{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+
+}
+
+.emailAddress{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.emailMessage{
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+button{
+  margin: 0px;
+  margin-top: 20px;
+  color: white;
+  background-color: darkgreen;
+}
